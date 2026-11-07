@@ -27,7 +27,7 @@ It's a single-page app — no login, no data stored, just describe and get a res
 ## Running locally
 
 ```bash
-git clone https://github.com/Raunack/symptomaid.git
+git clone https://github.com/Ronack-Kumar/symptomaid.git
 cd symptomaid
 ```
 
